@@ -1,5 +1,3 @@
-#ifndef FUNçõES_H_INCLUDED
-#define FUNçõES_H_INCLUDED
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -142,5 +140,3 @@ void print_head(estoque func[]){
     printf("\n======================================================\n");
     printf("\n");
 }
-
-#endif // FUNçõES_H_INCLUDED
