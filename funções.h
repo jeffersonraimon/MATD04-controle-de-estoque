@@ -20,7 +20,6 @@ typedef struct{
     int codigo;
     int validade;
 }estoque;
-estoque func[30];
 
 void troca(estoque *a, estoque *b){
     estoque aux;
